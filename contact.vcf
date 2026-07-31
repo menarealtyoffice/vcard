@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+KIND:org
+N:;;;;
+FN:Mena Realty Homes Corp.
+ORG:Mena Realty Homes Corp.
+TITLE:Licensed Real Estate Broker · NY DOS #10311209672
+TEL;TYPE=WORK,VOICE;TYPE=pref:+13477666362
+TEL;TYPE=CELL,VOICE:+13474348155
+EMAIL;TYPE=WORK:office@menarealty.com
+URL:https://menarealty.com
+ADR;TYPE=WORK:;;2675 Creston Ave;Bronx;NY;10468;USA
+PHOTO;VALUE=URI:https://menarealtyoffice.github.io/vcard/mena-logo.png
+NOTE:Rentals · Sales · Management. Your go-to team for apartment rentals, listings, sales, and property management across NYC.
+REV:2026-07-30T00:00:00Z
+END:VCARD
